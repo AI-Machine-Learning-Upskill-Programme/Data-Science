@@ -1,0 +1,1 @@
+{"year": "int64", "entity_code": "category", "entity": "category", "affected_legal_good": "category", "type_of_crime": "category", "subtype_of_crime": "category", "modality": "category", "month": "category", "crime_cases_count": "int64"}
