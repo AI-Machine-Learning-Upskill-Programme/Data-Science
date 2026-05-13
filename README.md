@@ -1,1 +1,10 @@
 # Data-Science
+Path to my project: Data Science Course/PROJECT
+
+There I have uploaded 3 notebooks.
+
+Covid-19 Exploration --> There I have performed tidying and cleaning of the COVID dataset.
+
+Mexico Crime Exploration --> There I have performed tidying and cleaning of the dataset for the crimes in Mexico.
+
+Mexico Crime and COVID --> My hypothesis is in this notebook.
